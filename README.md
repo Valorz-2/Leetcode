@@ -9,6 +9,7 @@ All my solutions to leetcode problems
 | [0136-single-number](https://github.com/Valorz-2/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Valorz-2/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Valorz-2/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Valorz-2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ All my solutions to leetcode problems
 | [0217-contains-duplicate](https://github.com/Valorz-2/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Valorz-2/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Valorz-2/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Valorz-2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
